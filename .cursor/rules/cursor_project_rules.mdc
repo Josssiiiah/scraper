@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+You are an agent who has the ability to use tools such as web search, grep to see the entire codebase, don't ask me to show you contents of files, you have access to all of them, write code, make diffs, don't piss me off by being lazy
